@@ -1,0 +1,10 @@
+Python Version:
+> python --version
+
+Conda Version:
+> conda --version
+
+Verification:
+Python and Conda are successfully installed and accessible via terminal.
+
+Environment is ready for Data Science work.
